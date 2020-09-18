@@ -37,6 +37,9 @@ If you want a full Tailwind config you can run the next command:
 npm install && npx tailwind init --full && npm run dev
 ```
 
+## Uninstall
+
+When you complete the instalation, configuration you can remove this packages from you project as well.
 
 ## Changelog
 
