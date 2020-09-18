@@ -14,7 +14,6 @@ You can install the package via composer:
 composer require carloosolrac/laravel-vue-tailwind-purgecss
 ```
 
-
 ## Usage
 
 After you install it, just execute this command.
@@ -25,7 +24,7 @@ php artisan preset:vtp
 
 > :warning: This command delete some foldes, replaces some files and edit another ones. **Use it with precaution** 
 
-Then you need install npm dependencies and Tailwind config file.
+Then, you need install npm dependencies and create the Tailwind config file.
 
 ```bash 
 npm install && npx tailwind init && npm run dev
