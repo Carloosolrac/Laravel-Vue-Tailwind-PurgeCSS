@@ -1,4 +1,4 @@
-# Laravel 8 VTP
+# Laravel 8 VueTailwindPurgeCSS
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/carloosolrac/laravel-vue-tailwind-purgecss.svg?style=flat-square)](https://packagist.org/packages/carloosolrac/laravel-vue-tailwind-purgecss)
 [![Total Downloads](https://img.shields.io/packagist/dt/carloosolrac/laravel-vue-tailwind-purgecss.svg?style=flat-square)](https://packagist.org/packages/carloosolrac/laravel-vue-tailwind-purgecss)
